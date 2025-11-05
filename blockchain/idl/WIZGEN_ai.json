@@ -1,11 +1,11 @@
 {
   "version": "0.1.0",
-  "name": "ORBCON_ai",
+  "name": "WIZGEN_ai",
   "instructions": [
     {
       "name": "initializeRealm",
       "docs": [
-        "Initializes a new governance realm for ORBCON with specified parameters.",
+        "Initializes a new governance realm for WIZGEN with specified parameters.",
         "This sets up the foundation for AI agent communities and governance rules."
       ],
       "accounts": [
@@ -23,8 +23,7 @@
 
 
 
-      $ORBCON
-
+      $WIZGEN
       )}
         const RPC_WS = process.env.RPC_WS!;
 const RPC_HTTP = process.env.RPC_HTTP!;
