@@ -8,6 +8,10 @@
 [![Website](https://img.shields.io/badge/Website-Codnix-blue?logo=google-chrome)](https://codnix.tech/)
 [![Twitter](https://img.shields.io/badge/Twitter-Codnix-blue?logo=twitter)](https://x.com/CODNIXBLOCK)
 
+```
+AtAP4bbb7Kie9Cw8iWPQQh5mK6eyvvNDe91CpWbPpump
+```
+
 # Codnix
 
 > Build Solana projects using smart modules.
