@@ -18,7 +18,7 @@
           "name": "authority",
           "type": "publicKey",
           "docs": ["The initial authority of the realm, typically the admin or deployer."]
-        },
+        }, 
         {
 
           
