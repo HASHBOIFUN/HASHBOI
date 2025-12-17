@@ -1,112 +1,78 @@
-# 🦉 OWLNET
+# Omenet
 
-**OWLNET — The Ascension Network**
-*An ascending tree formed by owl nodes, collectively building an evolving on-chain cognitive network.*
+<p align="center">
+  <a href="https://omenet.fun/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-omenet.fun-FFD800?style=for-the-badge&logo=internet-explorer&logoColor=black" />
+  </a>
+  <a href="https://x.com/OMENETPRE" target="_blank">
+    <img src="https://img.shields.io/badge/X-@OMENETPRE-FFD800?style=for-the-badge&logo=x&logoColor=black" />
+  </a>
+</p>
 
-CA: Hdo6PGqjGA217B231xLzPgUfELp4uCzj9eTWLaNtpump
-
----
-
-## Links
-
-[![Website](https://img.shields.io/badge/Website-OWLNET-0d1117?logo=internet-explorer&logoColor=white)](https://owlnet.fun/)
-[![X](https://img.shields.io/badge/X-OWLNET-0d1117?logo=x&logoColor=white)](https://x.com/OWLNETWEB3)
-
-
+> **For the first time, the future itself becomes an asset that can be minted, traded, and given liquidity.**
 
 ---
 
-## Overview
+## What is Omenet?
 
-OWLNET is a decentralized cognitive network where participants operate as **owl nodes** — autonomous units of observation, contribution, and connection.
-Together, these nodes form a living structure known as the **Ascension Tree**, a network that grows through meaningful interaction rather than static data storage.
+Omenet is a protocol where future events become on-chain assets.  
+Instead of betting on predefined outcomes, Omenet allows anyone to **define, mint, and trade probabilistic models of the future**.
 
-OWLNET is not a social platform, a traditional DAO, or a simple data layer. It is an experiment in building **on-chain cognition** — a system where knowledge evolves through participation.
+In Omenet, markets no longer ask *what will happen*.  
+They decide **which version of the future deserves to happen**.
 
----
-
-## Core Concept
-
-In OWLNET, every interaction matters.
-Each action, idea, or contribution feeds the network and helps it grow upward.
-The network does not rank participants by identity or capital, but by **contribution quality and relational context**.
-
-Wisdom is not collected — it is cultivated.
+Every event is minted as an asset, priced by market consensus, and contested through liquidity and trade.
 
 ---
 
-## ASC Protocol
+## Why Omenet Exists
 
-At the core of OWLNET lies the **ASC Protocol (Ascension Synchronization Code)**.
+Traditional prediction markets treat the future as a question.  
+Omenet treats the future as **a construct**.
 
-The ASC Protocol is responsible for:
-
-* Measuring contribution value
-* Evaluating relational alignment between nodes
-* Adjusting each node’s perception height within the network
-
-Nodes that contribute meaningful insight ascend higher in the tree, gaining broader visibility and influence.
+Rather than waiting for reality to arrive, Omenet brings future logic into the present — where it can be priced, traded, and challenged.  
+Belief becomes economic weight.  
+Consensus becomes liquidity.  
+And the future becomes programmable.
 
 ---
 
-## Workflow
+## Core Features
 
-### 1. Observation
+- **Event Minting**  
+  Anyone can mint a future event as a standalone on-chain asset.
 
-Owl nodes observe on-chain activity, interactions, and contextual signals.
+- **Narrative Liquidity**  
+  Events can carry liquidity, giving narratives measurable economic force.
 
-### 2. Reflection
+- **Probability Pricing**  
+  Market activity continuously prices the likelihood of each event.
 
-Observed data is processed through ASC, aligning insights across related nodes.
+- **Event Trading**  
+  Events can be bought, sold, longed, shorted, and combined.
 
-### 3. Ascension
+- **Composability**  
+  Events can merge, split, or inherit logic to form complex future structures.
 
-Nodes with sustained, meaningful contributions rise in perception height, expanding the collective understanding of the network.
-
----
-
-## Why OWLNET
-
-Blockchain excels at recording transactions, but struggles with representing understanding.
-
-OWLNET introduces a new layer:
-
-* From data to cognition
-* From static storage to dynamic growth
-* From isolated actions to collective intelligence
+- **Settlement & Resolution**  
+  Upon expiration, trusted oracles verify outcomes and trigger automatic settlement.
 
 ---
 
-## Vision
+## Security & Transparency
 
-OWLNET aims to become a foundational **cognitive infrastructure** for Web3.
+- No hidden switches  
+- No discretionary intervention  
+- All logic enforced by on-chain rules  
 
-A place where:
-
-* Knowledge is composable
-* Contribution is visible
-* Wisdom emerges through structure
-
-Not all nodes see the same thing — and that is intentional.
+Please verify the contract address **only** via the official website.
 
 ---
 
-## Status
+## Contract Address
 
-* Project is in early development
-* Architecture and protocol design in progress
-* NFT and node mechanics to be announced
-
----
-
-## Disclaimer
-
-OWLNET is an experimental project.
-Nothing in this repository constitutes financial advice.
-Participate responsibly.
+⚠️ **Do not purchase fake tokens circulating on the market.**  
+The verified CA will be published on the official website.  
+Protect your funds and stay alert.
 
 ---
-
-**OWLNET**
-Where wisdom connects — and the network begins to think.
-
